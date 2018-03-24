@@ -5,7 +5,7 @@
         version     = "1.0.0" >
 
     <name>GUI app with jQM</name>
-    <description>My first GUI application/description>
+    <description>My first GUI application </description>
     <author email="monika.stach@poczta.onet.pl">
 		Monika Stach
 	</author>
